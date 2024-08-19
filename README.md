@@ -1,0 +1,1 @@
+# QAguru_HW_3_fixtures
