@@ -11,7 +11,7 @@ def browser_size():
 @pytest.fixture(scope="session")
 def browser_example():
     browser.open('https://google.com')
-    yield
+    pass
 
 
 @pytest.fixture
